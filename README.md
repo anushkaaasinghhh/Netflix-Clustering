@@ -36,7 +36,5 @@ Results of different clustering Algorithms:-
 
 • Using K-Means Clustering Silhouette score closest to 1 is considered as best and its respective value shows the optimal no. of clusters for the given dataset data. Here 2 No. of clusters is the optimal number of clusters because its respective silhouette score of 0.6 was the highest amongst all.
 
-• Spectral Clustering • K –Modes • DB Scan • K- Means • Hierarchical agglomerative
-
 # Conclusion:-
 For NetFlix Movies, International Movies with genres such as Drama, Comedy & thriller, etc. having a duration of 90-110 mins are the most preferred ones and are the safe bet for good viewership and for attracting more new subscriptions, also people like to watch actors like Anupam Kher, Shahrukh Khan, Akshay Kumar, Kareena Kapoor, Boman Irani, Paresh Rawal etc. For NetFlix TV shows, we recommend introducing international TV shows, followed by Drama, Comedy, and Crime related series between October to January period with actors like Takahiro Sakurai, Junichi Suwabe, Yuki Kaji, etc, this would be a safe & profitable bet as there will be more chance of the show getting hit. As far as Clustering is concerned in the given dataset, Some algorithms are forming 3 clusters, and the majority of them 2, so we can conclude as the total clusters formed on our dataset in most of the cases are between 2 clusters.
