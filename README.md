@@ -30,5 +30,5 @@ Results of different clustering Algorithms:- • Using K –Modes, in the elbow 
 
 • Spectral Clustering • K –Modes • DB Scan • K- Means • Hierarchical agglomerative
 
-Conclusion:-
+# Conclusion:-
 For NetFlix Movies, International Movies with genres such as Drama, Comedy & thriller, etc. having a duration of 90-110 mins are the most preferred ones and are the safe bet for good viewership and for attracting more new subscriptions, also people like to watch actors like Anupam Kher, Shahrukh Khan, Akshay Kumar, Kareena Kapoor, Boman Irani, Paresh Rawal etc. For NetFlix TV shows, we recommend introducing international TV shows, followed by Drama, Comedy, and Crime related series between October to January period with actors like Takahiro Sakurai, Junichi Suwabe, Yuki Kaji, etc, this would be a safe & profitable bet as there will be more chance of the show getting hit ., As far as Clustering is concerned in the given dataset, Some algorithms are forming 3 clusters, and the majority of them 2, so we can conclude as the total clusters formed on our dataset in most of the cases are between 2 clusters.
