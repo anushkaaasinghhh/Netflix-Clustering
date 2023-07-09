@@ -15,9 +15,11 @@ At first, we found the missing values in the dataset, and then after replacing t
 • There is a trend that most movies and TV shows are added during the October to January months of the year.
 
 • The number of movies and TV shows added has constantly risen from 2015 to 2019 but we have found out that more movies were added during this tenure as compared to TV shows but between 2019- 2020 yes there have been more TV shows added than Movies. 
-• Then we tabulated the top 15 countries which have released the most movies and TV shows and found that the US is on top in both. In shows the US is followed by the UK and in movies the US is followed by India. • We also have actors who were part of most shows and movies which gave us that Takahiro Sakurai has worked in most shows and Anupam Kher has worked in most movies.
+• Then we tabulated the top 15 countries which have released the most movies and TV shows and found that the US is on top in both. In shows the US is followed by the UK and in movies the US is followed by India. 
+• We also have actors who were part of most shows and movies which gave us that Takahiro Sakurai has worked in most shows and Anupam Kher has worked in most movies.
 
-• We also found out that Genre wise International movies & Tv shows are the most in number followed by Drama & Comedy categories and this order is the same for Movies and Tv shows. • Also Using NLP we have found out the top 10 recommended movies and Tv shows by implementing Cosine similarity which has the most similarity with the other content present on Netflix, using this features the suggested TV shows and Movies can be recommended to a particular user based upon his past preferences.
+• We also found out that Genre wise International movies & Tv shows are the most in number followed by Drama & Comedy categories and this order is the same for Movies and Tv shows.
+• Also Using NLP we have found out the top 10 recommended movies and Tv shows by implementing Cosine similarity which has the most similarity with the other content present on Netflix, using this features the suggested TV shows and Movies can be recommended to a particular user based upon his past preferences.
 
 Results of different clustering Algorithms:- • Using K –Modes, in the elbow plot we can see that the elbow is formed at 3, so the number of clusters formed as per K-Modes is 3.
 
